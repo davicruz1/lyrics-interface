@@ -2,19 +2,8 @@ import tkinter as tk
 
 # letra da música (trecho)
 lyrics = [
-    "I wanna be your vacuum cleaner",
-    "Breathing in your dust",
-    "I wanna be your Ford Cortina",
-    "I will never rust",
-    "I just wanna be yours",
-    "",
-    "I wanna be your raincoat",
-    "For those frequent rainy days",
-    "I wanna be your dreamboat",
-    "When you want to sail away",
-    "Let me be yours",
-    "",
-    "I just wanna be yours"
+    "    "
+    
 ]
 
 # configurações de velocidade
@@ -53,3 +42,4 @@ text_box.pack(expand=True, fill="both")
 type_text()
 
 root.mainloop()
+
